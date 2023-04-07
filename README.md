@@ -1,6 +1,6 @@
 Simple librry for spi flash
 
-It created for winbond w25q32 but work also for
+It created for winbond w25q32 but work for<br>
 "SST25VF020B" <br>
 "SST25VF040B"<br>
 "SST25VF080B"<br>
@@ -17,4 +17,4 @@ It created for winbond w25q32 but work also for
 "MX25L3205D"<br>
 "MX25L6405D"<br>
 
-for other chip configure HW_defines.h const _s_device _device[]=
+for other chip configure HW_defines.h const _s_device _device[] <br>
