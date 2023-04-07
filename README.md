@@ -1,7 +1,7 @@
-Simple librry for spi flash
+Simple library for spi flash (tested arduino 2.0 esp32)
 
-It created for winbond w25q32 but work for<br>
-"SST25VF020B" <br>
+It created for winbond w25q32, but work for<br>
+"SST25VF020B"<br>
 "SST25VF040B"<br>
 "SST25VF080B"<br>
 "SST25VF016B"<br>
